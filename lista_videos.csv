@@ -1,4 +1,7 @@
-id,titulo,instructor,descripcion
-AfJeg7dKnq0,Econometría I,Jack Flores,Repaso de Econometría I
-IyPYeMmTH1w,Taller de Python 02,Anthony Costilla,Dataframes y Gráficos
-zBZCOke0MKc,Estadística II,Isabel Huarcaya,Prueba de Hipótesis
+id,titulo,instructor,descripcion,seccion
+AfJeg7dKnq0,Econometría I,Jack Flores,Repaso de Econometría I,Econometría
+lyPeMmTH1w,Taller de Python 02,Anthony Costilla,Dataframes y Gráficos,Python
+zBZC0keOMKc,Estadística II,Isabel Huarcaya,Prueba de Hipótesis,Python
+AfJeg7dKnq0,Econometría I,Jack Flores,Repaso de Econometría I,Python
+lyPeMmTH1w,Taller de Python 02,Anthony Costilla,Dataframes y Gráficos,Estadística
+zBZC0keOMKc,Estadística II,Isabel Huarcaya,Prueba de Hipótesis,Estadística
