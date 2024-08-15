@@ -1,0 +1,21 @@
+pregunta;correcta;incorrecta1;incorrecta2;incorrecta3;incorrecta4
+¿Cuál es la forma general de una EDP de primer orden?;$$a(x,y)U_x+b(x,y)U_y=c(x,y)$$;$$U_x+U_y=c$$;$$U_x=U_y+c$$;$$U_x-U_y=c$$;$$U_x+U_y=0$$
+¿Cuál es el método de solución de una EDP de primer orden?;Método de Lagrange;Método de Euler;Método de Newton;Método de integración directa;Método de Runge-Kutta
+¿Cuál es la ecuación característica para una EDP de segundo orden?;$$an^2+bn+c=0$$;$$a^2n+bn+c=0$$;$$an^2+bn-c=0$$;$$an^2-bn+c=0$$;$$an^2+bn+c=1$$
+¿Cuál es el orden de la ecuación $$U_{xx}-4U_{xy}+5U_{yy}=0$$?;Segundo;Primer;Tercer;Cuarto;Quinto
+¿Qué valor toma el discriminante ($$Δ$$) cuando hay raíces reales y distintas en una EDP de segundo orden?;$$Δ>0$$;$$Δ<0$$;$$Δ=0$$;$$Δ≥0$$;$$Δ≤0$$
+¿Cuál es el grado de homogeneidad de la función de producción Cobb-Douglas $$F(K,L)=AK^{\alpha}L^{\beta}$$?;$$\alpha+\beta$$;$$\alpha\beta$$;$$\alpha-\beta$$;$$\alpha/\beta$$;$$\alpha+\beta+1$$
+¿Cuál es la solución general de la ecuación $$3U_x+2U_y=5$$?;$$\phi(2x-3y,5y-2U)=0$$;$$\phi(3x+2y,5y+2U)=0$$;$$\phi(2x+3y,5y+3U)=0$$;$$\phi(3x-2y,5y-U)=0$$;$$\phi(2x-3y,U-5y)=0$$
+¿Cuál es la solución general de la ecuación $$xU_x+yU_y=U$$?;$$\phi(xy,\frac{y}{U})=0$$;$$\phi(\frac{x}{y},U)=0$$;$$\phi(x^2y,U)=0$$;$$\phi(x+y,xy)=0$$;$$\phi(\frac{xy}{U},1)=0$$
+¿Cuál es la forma general de una EDP de segundo orden con coeficientes constantes?;$$aU_{xx}+bU_{xy}+cU_{yy}=d(x,y)$$;$$U_{xx}+U_{xy}+U_{yy}=d(x,y)$$;$$aU_{xx}+bU_{xy}=cU_{yy}$$;$$aU_{xx}+bU_{xy}+cU_{yy}=0$$;$$U_{xx}+U_{yy}=d(x,y)$$
+¿Cuál es la solución de la EDP homogénea de segundo orden $$aU_{xx}+bU_{xy}+cU_{yy}=0$$?;Depende de las raíces de la ecuación característica;Depende de las condiciones iniciales;Depende del método de integración;Es siempre una función lineal;No tiene solución
+¿Qué tipo de función es la producción CES $$F(K,L)=A(aK^r+(1-a)L^r)^{1/r}$$?;Linealmente homogénea;No homogénea;Homogénea de grado $$r$$;Homogénea de grado $$a$$;No tiene grado de homogeneidad
+¿Qué sucede si el discriminante $$Δ$$ de una EDP de segundo orden es igual a cero?;Hay una única solución independiente;No hay soluciones;Hay dos soluciones distintas;La ecuación no tiene solución;La solución es indeterminada
+¿Cuál es la forma de una función homogénea de grado cero?;$$f(tx_1,tx_2,...,tx_n)=f(x_1,x_2,...,x_n)$$;$$f(tx_1,tx_2,...,tx_n)=0$$;$$f(x_1,x_2,...,x_n)=0$$;$$f(tx_1,tx_2,...,tx_n)=1$$;$$f(tx_1,tx_2,...,tx_n)=tn$$
+¿Qué método se utiliza para resolver la ecuación de calor $$U_y-4U_{xx}=0$$?;Método de variables separadas;Método de Euler;Método de diferencias finitas;Método de integración por partes;Método de transformada de Fourier
+¿Cuál es la solución general para la ecuación de segundo orden cuando $$Δ<0$$?;Las soluciones son complejas conjugadas;Las soluciones son reales y distintas;La solución es única;No hay soluciones;Las soluciones son imaginarias puras
+¿Cuál es el resultado de integrar la ecuación diferencial parcial $$2dx=3dy$$?;$$2x=3y+c_1$$;$$2x=3y-1$$;$$x^2=3y+c_2$$;$$2x^2=3y+c$$;$$2xy=3+c_1$$
+¿Qué describe el teorema de Euler para funciones homogéneas?;La relación entre las derivadas parciales y el grado de homogeneidad;La relación entre las derivadas primeras;La relación entre las funciones y sus derivadas segundas;El grado de una función lineal;El comportamiento de las funciones polinómicas
+¿Cuál es la solución particular de la EDP no homogénea $$U_{xx}+U_{xy}-6U_{yy}=x+y$$?;$$V(x,y)=-\frac{5x^2}{2}-yx$$;$$V(x,y)=x^2+xy$$;$$V(x,y)=\frac{x^2}{2}-y$$;$$V(x,y)=\frac{5x^2}{2}+xy$$;$$V(x,y)=x^2-y$$
+¿Cuál es la solución general de la ecuación $$U(x,y)=f(x)g(y)$$ bajo el método de variables separadas?;$$U=ce^{\lambda y}(ax+b)$$;$$U=c(ax+b)$$;$$U=ax+by$$;$$U=abxy$$;$$U=abx$$
+¿Qué tipo de solución tiene la ecuación $$U_{xx}-5U_{xy}+6U_{yy}=0$$ si $$Δ>0$$?;Dos soluciones reales distintas;Dos soluciones complejas conjugadas;Una única solución real;No tiene solución;Una solución compleja
